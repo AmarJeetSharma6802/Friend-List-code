@@ -1,0 +1,47 @@
+body{
+    display: grid;
+    place-items: center;
+    padding-top:20px;
+    background-color: green;
+  
+
+   }
+     table{
+         font-family: sans-serif;
+       border-collapse: separate;
+       width: 50%;
+       background-color: rgb(184, 241, 98);
+     padding: 10px;
+ 
+     }
+     th,td{
+         border: 2px solid black;
+         text-align: center;
+         font-size: 18px;
+         padding: 10px 5px;
+     }
+     h1{
+         color: white;
+         font-size: 35px;
+         text-align: center;
+     }
+     p{
+         color: aliceblue;
+         font-size: 18px;
+         text-align: center;
+     }
+     input{
+         width: 227px;
+ padding: 04px 10px;
+ font-size: 16px;
+ background: yellowgreen;
+ border: 1px solid white;
+ color: white;
+ border-radius: 5px;
+     }
+     /* tr:nth-child(even){
+         background-color: #1a9407
+     } */
+      .MF{
+         background-color: #1a9407
+      }
